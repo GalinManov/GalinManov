@@ -22,5 +22,5 @@ Hello, I'm Galin 👋
 🚀 Current Focus
 
  -Expanding into Data Engineering technologies<br>
- -Learning about data pipelines, ETL processes, and data architecture<br>
+ -Further develop my skills in data pipelines, ETL processes, and data architecture<br>
  -Building projects that combine analytics with data engineering fundamentals<br>

@@ -4,6 +4,7 @@ Hello, I'm Galin 👋
 
  -IT Audit and Data Analytics Specialist with 2 years of professional experience.<br>
  -Currently working in IT Audit and data analytics, focusing on risk, controls, extracting insights and supporting data-driven decision making.<br>
+ -Currently pursuing a Master’s degree in Informatics, Faculty of Mathematics and Informatics, Sofia University<br>
 
 📊 What I Do
 
